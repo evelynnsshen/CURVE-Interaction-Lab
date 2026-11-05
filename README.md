@@ -1,1 +1,1 @@
-# CURVE-Interaction-Lab
+# CURVE Interaction Lab
